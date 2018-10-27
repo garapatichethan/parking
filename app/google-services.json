@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "899214252408",
+    "firebase_url": "https://cs-561.firebaseio.com",
+    "project_id": "cs-561",
+    "storage_bucket": "cs-561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899214252408:android:795206a939523431",
+        "android_client_info": {
+          "package_name": "com.example.chethangarapati.parkinglot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899214252408-chnq8v4ot8fjr3828jv7g27rmvcd61dp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjdo95VwhDdoVvQnbYqx03ijILT13B5Yo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
